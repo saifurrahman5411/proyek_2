@@ -3,14 +3,14 @@
     <string name="_3000">3000</string>
     <string name="pengikut">PENGIKUT</string>
     <string name="postingan">POSTINGAN</string>
-    <string name="mengikuti">MENGIKUTI</string>
     <string name="jeruk_nipis_merupakan_jenis_tumbuhan_yang_masuk_kedalam_suku_jeruk_jerukan">Jeruk Nipis merupakan jenis tumbuhan yang masuk kedalam suku jeruk-jerukan.</string>
-    <string name="mengikuti">MENGIKUTI</string>
+
     <string name="kirim_pesan">KIRIM PESAN</string>
     <string name="_1001">1001</string>
     <string name="_2000">2000</string>
     <string name="txt">txt</string>
     <string name="salam_kenal">salam kenal</string>
+
     <string name="textview">TextView</string>
-    <string name="textview">TextView</string>
+    <string name="mengikuti">mengikuti</string>
 </resources>
